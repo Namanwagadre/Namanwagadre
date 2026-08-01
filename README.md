@@ -23,9 +23,12 @@ I am a passionate software developer specializing in building scalable web appli
 
 ### 📊 GitHub Stats
 
-![Naman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Namanwagadre&show_icons=true&theme=dark)
+![Naman's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Namanwagadre&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Namanwagadre&layout=compact&theme=dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Namanwagadre&theme=dark)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Namanwagadre&layout=compact&theme=dark)
+
 ---
 
 ### 🌐 Connect with Me

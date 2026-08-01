@@ -13,6 +13,7 @@ I am a passionate software developer specializing in building scalable web appli
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -31,5 +32,5 @@ I am a passionate software developer specializing in building scalable web appli
 
 ### 🌐 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
-- 📧 **Email:** [your-email@gmail.com](mailto:your-email@gmail.com)
+- 💼 **LinkedIn:** [Naman Wagadre](https://www.linkedin.com/in/naman-wagadre-8a5022268/)
+- 📧 **Email:** [namanwagadre@gmail.com](mailto:namanwagadre@gmail.com)

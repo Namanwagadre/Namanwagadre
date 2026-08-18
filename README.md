@@ -21,6 +21,7 @@ I am a passionate software developer specializing in building scalable web appli
 
 ---
 
+### LeetCode
 <!-- LeetCode Stats Card -->
 <img src="https://leetcard.jacoblin.cool/NamanWagadre?theme=nord&font=baloo" alt="LeetCode Stats" />
 

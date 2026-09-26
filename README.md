@@ -1,31 +1,73 @@
 # Hi there, I'm Naman Wagadre! 👋
 
-### 🚀 Full-Stack Developer | MERN Stack Enthusiast
+### 🐍 Python Developer | Django Developer
 
-I am a passionate software developer specializing in building scalable web applications using the MERN stack. I love solving problems, creating seamless user experiences, and exploring new web technologies.
-
----
-
-### 💻 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,html,css,git,github" />
-</p>
+I am a Python Developer focused on building web applications using Python and Django.  
+I enjoy solving problems, learning new technologies, and building practical projects.
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack & Tools
 
-<!-- GitHub Profile Summary Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Namanwagadre&theme=tokyonight" alt="Profile Summary" />
+### Backend
+- Python
+- Django
+- Django ORM
+- REST APIs
+
+### Database
+- MySQL
+- SQLite
+- MongoDB
+
+### Frontend
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+
+### Tools
+- Git
+- GitHub
+- Postman
+- VS Code
 
 ---
 
-### LeetCode
-<!-- LeetCode Stats Card -->
-<img src="https://leetcard.jacoblin.cool/NamanWagadre?theme=nord&font=baloo" alt="LeetCode Stats" />
+## 🚀 Featured Project
 
-### 🌐 Connect with Me
+### Inventory Management System
 
-- 💼 **LinkedIn:** [Naman Wagadre](https://www.linkedin.com/in/naman-wagadre-8a5022268/)
-- 📧 **Email:** [namanwagadre@gmail.com](mailto:namanwagadre@gmail.com)
+A web-based inventory management application built using **Python, Django, MySQL and Bootstrap**.
+
+**Features:**
+- User Signup / Login / Logout
+- Product CRUD
+- Category CRUD
+- Product Search & Filtering
+- Stock In / Stock Out
+- Insufficient Stock Validation
+- Dashboard
+- Django ORM
+- MySQL Database
+
+🔗 **Project:**  
+https://github.com/Namanwagadre/inventory-management-system
+
+---
+
+## 📚 Currently Focused On
+
+- Python
+- Django
+- Django ORM
+- SQL & MySQL
+- REST APIs
+- Backend Development
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Namanwagadre
+- LinkedIn: [Your LinkedIn Profile]
